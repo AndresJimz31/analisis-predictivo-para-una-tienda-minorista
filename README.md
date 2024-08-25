@@ -20,4 +20,7 @@ Entrenamos tu modelo seleccionado en el conjunto de entrenamiento y evaluamos su
 
 En el grafico, se muestra un diagrama de dispersion en el cual se evidencia que el modelo de regresion lineal esta haciendo un buen trabajo al predecir las ventas. La linea de tendencia indica que existe una fuerte relacion positiva entre los valores reales y predichos, lo que indica que el modelo puede capturar la tendencia de las ventas con eficiencia.
 
+En este siguiente grafico, se comparan las **Ventas Reales** y las **Ventas Predichas** a lo largo del tiempo y tambien parece seguir un patron similar, aunque hay algunos puntos en los que las predicciones y los valores reales difieren significativamente. Esto puede deberse a eventos no capturados por las variables en el modelo o a variaciones naturales en las ventas que no son predecibles.
+
+<img width="874" alt="Captura de pantalla 2024-08-25 a la(s) 9 24 38 a  m" src="https://github.com/user-attachments/assets/c396ea61-f293-4632-b692-74693883366f">
 
